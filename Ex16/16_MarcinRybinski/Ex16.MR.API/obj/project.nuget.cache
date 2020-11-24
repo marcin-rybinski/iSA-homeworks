@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5V1OY4Cv+yPl8/6Ed5c9RkAsu9jBkx36vWtFTr7SLD0ykPbKE7k8BVCWEW9cpmXETcBd3eBNoGjyJ5YTRYB8jg==",
+  "success": true,
+  "projectFilePath": "E:\\repos\\jcszr1-homeworks\\Ex16\\16_MarcinRybinski\\Ex16.MR.API\\Ex16.MR.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rybin\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\rybin\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\rybin\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

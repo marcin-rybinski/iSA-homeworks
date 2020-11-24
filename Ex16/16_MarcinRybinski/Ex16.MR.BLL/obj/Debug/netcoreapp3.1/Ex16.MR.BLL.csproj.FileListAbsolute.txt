@@ -1,0 +1,9 @@
+E:\repos\jcszr1-homeworks\Ex16\16_MarcinRybinski\Ex16.MR.BLL\bin\Debug\netcoreapp3.1\Ex16.MR.BLL.deps.json
+E:\repos\jcszr1-homeworks\Ex16\16_MarcinRybinski\Ex16.MR.BLL\bin\Debug\netcoreapp3.1\Ex16.MR.BLL.dll
+E:\repos\jcszr1-homeworks\Ex16\16_MarcinRybinski\Ex16.MR.BLL\bin\Debug\netcoreapp3.1\Ex16.MR.BLL.pdb
+E:\repos\jcszr1-homeworks\Ex16\16_MarcinRybinski\Ex16.MR.BLL\obj\Debug\netcoreapp3.1\Ex16.MR.BLL.csprojAssemblyReference.cache
+E:\repos\jcszr1-homeworks\Ex16\16_MarcinRybinski\Ex16.MR.BLL\obj\Debug\netcoreapp3.1\Ex16.MR.BLL.AssemblyInfoInputs.cache
+E:\repos\jcszr1-homeworks\Ex16\16_MarcinRybinski\Ex16.MR.BLL\obj\Debug\netcoreapp3.1\Ex16.MR.BLL.AssemblyInfo.cs
+E:\repos\jcszr1-homeworks\Ex16\16_MarcinRybinski\Ex16.MR.BLL\obj\Debug\netcoreapp3.1\Ex16.MR.BLL.csproj.CoreCompileInputs.cache
+E:\repos\jcszr1-homeworks\Ex16\16_MarcinRybinski\Ex16.MR.BLL\obj\Debug\netcoreapp3.1\Ex16.MR.BLL.dll
+E:\repos\jcszr1-homeworks\Ex16\16_MarcinRybinski\Ex16.MR.BLL\obj\Debug\netcoreapp3.1\Ex16.MR.BLL.pdb

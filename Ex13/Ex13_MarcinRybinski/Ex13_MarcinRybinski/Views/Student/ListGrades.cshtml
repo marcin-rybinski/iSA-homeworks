@@ -1,0 +1,53 @@
+﻿@model Ex13_MR.Models.StudentsGradesViewModel
+
+@{
+    ViewData["Title"] = "ListGrades";
+}
+
+<h1>Grades List for Student: @Model.StudentFullName</h1>
+
+<p>
+    <a class="btn btn-primary" asp-action="AddGrade" asp-route-studentId="@Model.StudentId">Add grade</a>
+</p>
+@if (@Model.GradesList.Any())
+{
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Grade
+            </th>
+            <th>
+                Weight
+            </th>
+            <th>
+                Category
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.GradesList)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Value)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Weight)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Category)
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+}
+else
+{
+<p>There are no grades on a list</p>
+}
+<div>
+    <a class="btn btn-info" asp-controller="Student" asp-action="ListStudents">Back to Students List</a>
+</div>

@@ -1,0 +1,13 @@
+F:\repos\jcszr1-homeworks\Ex3\obj\Debug\netcoreapp3.1\Ex3.csprojAssemblyReference.cache
+F:\repos\jcszr1-homeworks\Ex3\obj\Debug\netcoreapp3.1\Ex3.AssemblyInfoInputs.cache
+F:\repos\jcszr1-homeworks\Ex3\obj\Debug\netcoreapp3.1\Ex3.AssemblyInfo.cs
+F:\repos\jcszr1-homeworks\Ex3\obj\Debug\netcoreapp3.1\Ex3.csproj.CoreCompileInputs.cache
+F:\repos\jcszr1-homeworks\Ex3\bin\Debug\netcoreapp3.1\Ex3.exe
+F:\repos\jcszr1-homeworks\Ex3\bin\Debug\netcoreapp3.1\Ex3.deps.json
+F:\repos\jcszr1-homeworks\Ex3\bin\Debug\netcoreapp3.1\Ex3.runtimeconfig.json
+F:\repos\jcszr1-homeworks\Ex3\bin\Debug\netcoreapp3.1\Ex3.runtimeconfig.dev.json
+F:\repos\jcszr1-homeworks\Ex3\bin\Debug\netcoreapp3.1\Ex3.dll
+F:\repos\jcszr1-homeworks\Ex3\bin\Debug\netcoreapp3.1\Ex3.pdb
+F:\repos\jcszr1-homeworks\Ex3\obj\Debug\netcoreapp3.1\Ex3.dll
+F:\repos\jcszr1-homeworks\Ex3\obj\Debug\netcoreapp3.1\Ex3.pdb
+F:\repos\jcszr1-homeworks\Ex3\obj\Debug\netcoreapp3.1\Ex3.genruntimeconfig.cache

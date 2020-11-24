@@ -1,0 +1,10 @@
+2020-10-30 14:06:49.240 +01:00 [INF] Application started at 30.10.2020 14:06:49
+2020-10-30 14:06:50.440 +01:00 [INF] Executing endpoint 'Ex14_logging.Controllers.WeatherForecastController.Get (Ex14_logging)'
+2020-10-30 14:06:50.505 +01:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[Ex14_logging.WeatherForecast] Get() on controller Ex14_logging.Controllers.WeatherForecastController (Ex14_logging).
+2020-10-30 14:06:50.511 +01:00 [INF] Controller method called at 30.10.2020 14:06:50.
+2020-10-30 14:06:50.604 +01:00 [ERR] Error in WeatherForecast GET method at 30.10.2020 14:06:50.
+System.InvalidOperationException: Invalid operation within controller method.
+   at Ex14_logging.Controllers.WeatherForecastController.Get() in E:\repos\jcszr1-homeworks\Ex14\Ex14_logging\Ex14_logging\Controllers\WeatherForecastController.cs:line 33
+2020-10-30 14:06:50.611 +01:00 [INF] Executing ObjectResult, writing value of type 'Ex14_logging.WeatherForecast[]'.
+2020-10-30 14:06:50.638 +01:00 [INF] Executed action Ex14_logging.Controllers.WeatherForecastController.Get (Ex14_logging) in 121.3111ms
+2020-10-30 14:06:50.642 +01:00 [INF] Executed endpoint 'Ex14_logging.Controllers.WeatherForecastController.Get (Ex14_logging)'

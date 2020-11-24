@@ -1,0 +1,15 @@
+F:\repos\jcszr1-homeworks\Ex9\Ex9\bin\Debug\netcoreapp3.1\Ex9.exe
+F:\repos\jcszr1-homeworks\Ex9\Ex9\obj\Debug\netcoreapp3.1\Ex9.csprojAssemblyReference.cache
+F:\repos\jcszr1-homeworks\Ex9\Ex9\obj\Debug\netcoreapp3.1\Ex9.AssemblyInfoInputs.cache
+F:\repos\jcszr1-homeworks\Ex9\Ex9\obj\Debug\netcoreapp3.1\Ex9.AssemblyInfo.cs
+F:\repos\jcszr1-homeworks\Ex9\Ex9\bin\Debug\netcoreapp3.1\Ex9.deps.json
+F:\repos\jcszr1-homeworks\Ex9\Ex9\bin\Debug\netcoreapp3.1\Ex9.runtimeconfig.json
+F:\repos\jcszr1-homeworks\Ex9\Ex9\bin\Debug\netcoreapp3.1\Ex9.runtimeconfig.dev.json
+F:\repos\jcszr1-homeworks\Ex9\Ex9\bin\Debug\netcoreapp3.1\Ex9.dll
+F:\repos\jcszr1-homeworks\Ex9\Ex9\bin\Debug\netcoreapp3.1\Ex9.pdb
+F:\repos\jcszr1-homeworks\Ex9\Ex9\bin\Debug\netcoreapp3.1\RestSharp.dll
+F:\repos\jcszr1-homeworks\Ex9\Ex9\obj\Debug\netcoreapp3.1\Ex9.csproj.CoreCompileInputs.cache
+F:\repos\jcszr1-homeworks\Ex9\Ex9\obj\Debug\netcoreapp3.1\Ex9.csproj.CopyComplete
+F:\repos\jcszr1-homeworks\Ex9\Ex9\obj\Debug\netcoreapp3.1\Ex9.dll
+F:\repos\jcszr1-homeworks\Ex9\Ex9\obj\Debug\netcoreapp3.1\Ex9.pdb
+F:\repos\jcszr1-homeworks\Ex9\Ex9\obj\Debug\netcoreapp3.1\Ex9.genruntimeconfig.cache

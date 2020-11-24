@@ -1,0 +1,13 @@
+E:\repos\jcszr1-homeworks\Ex15\ClassRegister\bin\Debug\netcoreapp3.1\ClassRegister.exe
+E:\repos\jcszr1-homeworks\Ex15\ClassRegister\bin\Debug\netcoreapp3.1\ClassRegister.deps.json
+E:\repos\jcszr1-homeworks\Ex15\ClassRegister\bin\Debug\netcoreapp3.1\ClassRegister.runtimeconfig.json
+E:\repos\jcszr1-homeworks\Ex15\ClassRegister\bin\Debug\netcoreapp3.1\ClassRegister.runtimeconfig.dev.json
+E:\repos\jcszr1-homeworks\Ex15\ClassRegister\bin\Debug\netcoreapp3.1\ClassRegister.dll
+E:\repos\jcszr1-homeworks\Ex15\ClassRegister\bin\Debug\netcoreapp3.1\ClassRegister.pdb
+E:\repos\jcszr1-homeworks\Ex15\ClassRegister\obj\Debug\netcoreapp3.1\ClassRegister.csprojAssemblyReference.cache
+E:\repos\jcszr1-homeworks\Ex15\ClassRegister\obj\Debug\netcoreapp3.1\ClassRegister.AssemblyInfoInputs.cache
+E:\repos\jcszr1-homeworks\Ex15\ClassRegister\obj\Debug\netcoreapp3.1\ClassRegister.AssemblyInfo.cs
+E:\repos\jcszr1-homeworks\Ex15\ClassRegister\obj\Debug\netcoreapp3.1\ClassRegister.csproj.CoreCompileInputs.cache
+E:\repos\jcszr1-homeworks\Ex15\ClassRegister\obj\Debug\netcoreapp3.1\ClassRegister.dll
+E:\repos\jcszr1-homeworks\Ex15\ClassRegister\obj\Debug\netcoreapp3.1\ClassRegister.pdb
+E:\repos\jcszr1-homeworks\Ex15\ClassRegister\obj\Debug\netcoreapp3.1\ClassRegister.genruntimeconfig.cache

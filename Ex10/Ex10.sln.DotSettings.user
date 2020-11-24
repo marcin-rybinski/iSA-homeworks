@@ -1,0 +1,22 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1ed84316_002D39ec_002D4872_002Dadcf_002D38f3d3ad1c6a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Record_Correct_Number_Of_Lines_With_Given_Data" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::86DABB05-FFD4-4153-8C8E-A194D9FFC031::.NETCoreApp,Version=v3.1::XUnitTestProjectEx10.ReceiptShould.Record_Correct_Number_Of_Lines_With_Given_Data&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::86DABB05-FFD4-4153-8C8E-A194D9FFC031::.NETCoreApp,Version=v3.1::XUnitTestProjectEx10.ReceiptShould.Throw_Exception_When_Given_Negative_OrZero_Quantity&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::86DABB05-FFD4-4153-8C8E-A194D9FFC031::.NETCoreApp,Version=v3.1::XUnitTestProjectEx10.ReceiptShould.Throw_Exception_When_Given_Negative_OrZero_Price&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::86DABB05-FFD4-4153-8C8E-A194D9FFC031::.NETCoreApp,Version=v3.1::XUnitTestProjectEx10.ReceiptShould.Calculate_Correct_Number_Of_Lines&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::86DABB05-FFD4-4153-8C8E-A194D9FFC031::.NETCoreApp,Version=v3.1::XUnitTestProjectEx10.ReceiptShould.Delete_Last_Line&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::86DABB05-FFD4-4153-8C8E-A194D9FFC031::.NETCoreApp,Version=v3.1::XUnitTestProjectEx10.ReceiptShould.Calculate_Correct_Sum_Of_Products&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::86DABB05-FFD4-4153-8C8E-A194D9FFC031::.NETCoreApp,Version=v3.1::XUnitTestProjectEx10.ReceiptShould.Have_Total_Cost_Lowered_By_Removed_Items_Costs_After_Reversing_Last_Line&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::86DABB05-FFD4-4153-8C8E-A194D9FFC031::.NETCoreApp,Version=v3.1::XUnitTestProjectEx10.ReceiptShould.Add_Another_Line_To_Receipt_&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::86DABB05-FFD4-4153-8C8E-A194D9FFC031::.NETCoreApp,Version=v3.1::XUnitTestProjectEx10.ReceiptShould.Throw_Exception_When_Trying_To_Remove_More_Lines_Than_TheNumber_Of_Lines_In_Record&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::86DABB05-FFD4-4153-8C8E-A194D9FFC031::.NETCoreApp,Version=v3.1::XUnitTestProjectEx10.ReceiptShould.Throw_Exception_When_Trying_To_Remove_Line_When_There_Is_No_Line_In_Record&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::86DABB05-FFD4-4153-8C8E-A194D9FFC031::.NETCoreApp,Version=v3.1::XUnitTestProjectEx10.ReceiptShould.Throw_Exception_When_Trying_To_Reverse_Line_Twice_In_A_Row&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::86DABB05-FFD4-4153-8C8E-A194D9FFC031::.NETCoreApp,Version=v3.1::XUnitTestProjectEx10.ReceiptShould.Reverse_A_Line_After_Reversing_And_Adding_NextOne&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=639012df_002D93b1_002D4396_002Db7d1_002D568018b1e7c2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Record_Correct_Number_Of_Lines_With_Given_Data #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::86DABB05-FFD4-4153-8C8E-A194D9FFC031::.NETCoreApp,Version=v3.1::XUnitTestProjectEx10.ReceiptShould.Record_Correct_Number_Of_Lines_With_Given_Data&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

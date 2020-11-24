@@ -1,0 +1,54 @@
+﻿@model List<Ex13_MR.Models.StudentsListViewModel>
+
+@{
+    ViewData["Title"] = "Students List";
+}
+
+<h1>Students List</h1>
+
+<p>
+    <a class="btn btn-info" asp-action="AddStudent">Add student</a>
+</p>
+@if (@Model.Any())
+{
+<table class="table">
+    <thead>
+    <tr>
+        <th>
+            Id
+        </th>
+        <th>
+            Full Name
+        </th>
+        <th>Teacher</th>
+        <th></th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Student.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Student.FullName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TeachersFullName)
+            </td>
+            <td>
+                <a class="btn btn-info" asp-action="AddGrade" asp-route-studentId="@item.Student.Id">Add Grade</a>
+                <a class="btn btn-info" asp-action="ListGrades" asp-route-id="@item.Student.Id">Grades</a>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>
+}
+else
+{
+<p>There are no students on a list</p>
+}
+<div>
+    <a class="btn btn-primary" asp-controller="Home" asp-action="Index">Back to Home Page</a>
+</div>

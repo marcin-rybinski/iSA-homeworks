@@ -1,0 +1,12 @@
+E:\repos\jcszr1-homeworks\Ex10\Ex10\bin\Debug\netcoreapp3.1\Ex10.exe
+E:\repos\jcszr1-homeworks\Ex10\Ex10\obj\Debug\netcoreapp3.1\Ex10.AssemblyInfoInputs.cache
+E:\repos\jcszr1-homeworks\Ex10\Ex10\obj\Debug\netcoreapp3.1\Ex10.AssemblyInfo.cs
+E:\repos\jcszr1-homeworks\Ex10\Ex10\bin\Debug\netcoreapp3.1\Ex10.deps.json
+E:\repos\jcszr1-homeworks\Ex10\Ex10\bin\Debug\netcoreapp3.1\Ex10.runtimeconfig.json
+E:\repos\jcszr1-homeworks\Ex10\Ex10\bin\Debug\netcoreapp3.1\Ex10.runtimeconfig.dev.json
+E:\repos\jcszr1-homeworks\Ex10\Ex10\bin\Debug\netcoreapp3.1\Ex10.dll
+E:\repos\jcszr1-homeworks\Ex10\Ex10\bin\Debug\netcoreapp3.1\Ex10.pdb
+E:\repos\jcszr1-homeworks\Ex10\Ex10\obj\Debug\netcoreapp3.1\Ex10.csproj.CoreCompileInputs.cache
+E:\repos\jcszr1-homeworks\Ex10\Ex10\obj\Debug\netcoreapp3.1\Ex10.dll
+E:\repos\jcszr1-homeworks\Ex10\Ex10\obj\Debug\netcoreapp3.1\Ex10.pdb
+E:\repos\jcszr1-homeworks\Ex10\Ex10\obj\Debug\netcoreapp3.1\Ex10.genruntimeconfig.cache

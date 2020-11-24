@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xqm6tM/5rf/tFSxBJi/ObVPKFE6jeS5/kcOA83DnKh6ItlhUWkYWhaSPk4gw2+v7Rz3VZ7gYUcE8Met2BgLffw==",
+  "success": true,
+  "projectFilePath": "F:\\repos\\jcszr1-homeworks\\Ex9\\Ex9\\Ex9.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rybin\\.nuget\\packages\\restsharp\\106.11.5\\restsharp.106.11.5.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4GwMBmFubEQjVGl8wDJ+e6fh01XoSSg104MHzhtrjO6tLBZ6wcpMZI/kIMrEy7IOLRF0tqYeNSVjtjGwP4oKxA==",
+  "success": true,
+  "projectFilePath": "E:\\repos\\jcszr1-homeworks\\Ex10\\Ex10\\Ex10.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rybin\\.nuget\\packages\\fluentassertions\\5.10.3\\fluentassertions.5.10.3.nupkg.sha512",
+    "C:\\Users\\rybin\\.nuget\\packages\\system.configuration.configurationmanager\\4.4.0\\system.configuration.configurationmanager.4.4.0.nupkg.sha512",
+    "C:\\Users\\rybin\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.4.0\\system.security.cryptography.protecteddata.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

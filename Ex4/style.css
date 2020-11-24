@@ -1,0 +1,72 @@
+.navbar-style{
+    background-color: rgb(219, 197, 179);
+    font-family: 'Bahnschrift';
+    font-size: 18px;
+}
+.logo{
+ height: 45px;
+ margin-right: 30px;
+}
+.search-input:focus{
+    box-shadow: none;
+    border-color: gray;
+}
+.search-button {
+    
+    background-color: lightgrey;
+    border-color: grey;
+    color: black;
+}
+.search-button:hover {
+    background-color:grey;
+    border-color: grey;
+    color: black;
+}
+.search-button:active {
+    background-color:rgb(78, 78, 78);
+    border-color: grey;
+    color: black;
+}
+.search-button:focus{
+    box-shadow: none;
+}
+.container {
+    display: flex;
+    flex-flow: row wrap;
+}
+.sidebar-title{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-family: 'Bahnschrift';
+    letter-spacing: 2px;
+}
+.sidebar-subtitle{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-family: 'Bahnschrift';
+}
+.sidebar {
+    background-color: rgb(223, 216, 210);  
+}
+.product-section{
+    margin-left: 10px;
+}
+.card-image{
+    height: 30vh;
+}
+.card-style {
+    margin: 2%;        
+}
+.btn-style:focus{
+    box-shadow: none;
+}
+.btn-style{   
+   background-color: rgb(153, 153, 153);
+   border-radius: 0;
+}
+.card-header-style {
+    padding: 0;
+}
+
